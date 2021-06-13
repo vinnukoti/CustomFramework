@@ -1,0 +1,19 @@
+{
+  "name": "CustomFramework",
+  "version": "1.0.0",
+  "summary": "This is a demo purpose created framework",
+  "description": "This is a demo purpose created framework, since its a pulic repo please dont use it :)",
+  "homepage": "https://github.com/vinnukoti/CustomFramework",
+  "license": "MIT",
+  "authors": {
+    "Vinayak": "venuskoti.@gmail.com"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source": {
+    "git": "https://github.com/vinnukoti/CustomFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "CustomFramework/**/*.{swift}"
+}
